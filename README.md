@@ -52,9 +52,10 @@ A course exercise.
 "Upload" (it's **push** actually) your project to your git repository.
 
 #### Ping Us
-Tell us on our **Proclub Teknofest** LINE group about your repository (URL).
+Tell us by submitting an **issue** about your repository (URL)
+on this repository.
 We will add your awesome project to this repository list!
 
 ## Repository List
-Currently, there is no repository.
+Currently, there is no repository here.
 
