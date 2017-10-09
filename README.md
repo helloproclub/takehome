@@ -1,5 +1,5 @@
 # Proclub Take Home
-A Proclub open recruitment optional take home task.
+A Proclub open recruitment OPTIONAL take home task.
 
 ## Programmer
 Here is your long week take home task.
