@@ -53,9 +53,40 @@ A course exercise.
 
 #### Ping Us
 Tell us by submitting an **issue** about your repository (URL)
-on this repository.
+on this repository or edit this README then send a **pull request**.
 We will add your awesome project to this repository list!
 
-## Repository List
+#### Repository List
 Currently, there is no repository here.
+
+### Algorithm Understanding
+Algorithm and data structure is an important part in computer science.
+If you have a better understanding that's mean you will be able to
+creates an efficient program.
+
+#### Create an Account
+First, you need to create an account on an online judge like HackerRank,
+Kattis, SPOJ, etc. We will use [HackerRank](https://www.hackerrank.com/).
+
+#### Solve the Challenge
+Solve any challenges that mentioned below.
+
+- [Warmup](https://www.hackerrank.com/domains/algorithms/warmup).
+- [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
+
+Show us that you are serious by solving more challenges. Don't use online
+solution. We will know right away if you are doing so.
+
+#### Ping Us
+When you're done or there is something you want to ask, freely to visit our
+beloved HQ at E Building of Informatics Faculty. If you are too shy to do that
+you may drop an email and upload your solution (code). Don't forget to
+archiving them with **ZIP** format. We won't accept any format beside ZIP.
+Mention your name and your NIM.
+
+## Notes
+You're freely to visit us and ask everything.
+The deadline of this task is two days before interview phase.
+Please note that this task is optional. It's a good thing if you're
+doing this task.
 
