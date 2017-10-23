@@ -23,7 +23,7 @@ Well, this is an optional task. It's up to you.
 
 It's simple. We want to see your awesome code. That's all.
 
-### Git Repository
+### 1. GIT REPOSITORY
 Creates a git repository on any software development
 platform such as
 [GitHub](https://github.com/),
@@ -59,7 +59,7 @@ We will add your awesome project to this repository list!
 #### Repository List
 Currently, there is no repository here.
 
-### Algorithm Understanding
+### 2. ALGORITHM UNDERSTANDING
 Algorithm and data structure is an important part in computer science.
 If you have a better understanding that's mean you will be able to
 creates an efficient program.
@@ -76,6 +76,9 @@ Solve any challenges that mentioned below.
 
 Show us that you are serious by solving more challenges. Don't use online
 solution. We will know right away if you are doing so.
+
+### 3. LOGIC EXERCISE CHALLENGE
+Solve this problem [Download](TakeLogicProgrammer2017.pdf)
 
 #### Ping Us
 When you're done or there is something you want to ask, freely to visit our
