@@ -13,7 +13,7 @@ That's because you should showing off your programming
 skill to us. "Paper" such as CV and resume are
 sometimes useless.
 We are human being which often made a mistakes.
-We are afraid to miss you because your sucks "paper" or something like that.
+We are afraid to miss you because of your sucks "paper" or something like that.
 
 **Why you don't need to do this task?**
 
@@ -49,7 +49,7 @@ A course exercise.
 - and so on
 
 #### Upload
-"Upload" (it's **push** actually) your project to your git repository.
+"Upload" (it's a **push** actually) your project to your git repository.
 
 #### Ping Us
 Tell us by submitting an **issue** about your repository (URL)
@@ -60,9 +60,9 @@ We will add your awesome project to this repository list!
 Currently, there is no repository here.
 
 ### 2. ALGORITHM UNDERSTANDING
-Algorithm and data structure is an important part in computer science.
-If you have a better understanding that's mean you will be able to
-creates an efficient program.
+Algorithm and data structure is an important part of computer science.
+If you have a better understanding that means you will be able to
+create an efficient program.
 
 #### Create an Account
 First, you need to create an account on an online judge like HackerRank,
@@ -81,7 +81,7 @@ solution. We will know right away if you are doing so.
 Solve this problem [Download](TakeLogicProgrammer2017.pdf)
 
 #### Ping Us
-When you're done or there is something you want to ask, freely to visit our
+When you're done or there is something you want to ask, feel free to visit our
 beloved HQ at E Building of Informatics Faculty. If you are too shy to do that
 you may drop an email and upload your solution (code). Don't forget to
 archiving them with **ZIP** format. We won't accept any format beside ZIP.
