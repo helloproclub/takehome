@@ -78,7 +78,10 @@ Show us that you are serious by solving more challenges. Don't use online
 solution. We will know right away if you are doing so.
 
 ### 3. LOGIC EXERCISE CHALLENGE
-Solve this problem [Download](TakeLogicProgrammer2017.pdf)
+Solve this problem [Download](TakeLogicProgrammer2017.pdf).
+
+Have you done? If you are interested to solve another challenge, take a look
+on [this challenge](SeranganMonster.pdf).
 
 #### Ping Us
 When you're done or there is something you want to ask, feel free to visit our
