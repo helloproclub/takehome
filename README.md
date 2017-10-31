@@ -92,7 +92,7 @@ Mention your name and your NIM.
 
 ## Notes
 You're freely to visit us and ask everything.
-The deadline of this task is two days before interview phase.
+The deadline of this task is **November 3rd, 2017**.
 Please note that this task is optional. It's a good thing if you're
 doing this task.
 
