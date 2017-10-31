@@ -57,7 +57,31 @@ on this repository or edit this README then send a **pull request**.
 We will add your awesome project to this repository list!
 
 #### Repository List
-Currently, there is no repository here.
+Here is the repository list ordered by submitted issue.
+
+- [Bombardirgh/simple-shopping-app](https://github.com/Bombardirgh/simple-shopping-app)
+- [Bombardirgh/actor-film-relation-modelling](https://github.com/Bombardirgh/actor-film-relation-modelling)
+- [badrus123/Portfolio](https://github.com/badrus123/Portfolio)
+- [badrus123/Tubes](https://github.com/badrus123/Tubes)
+- [BlinfoldKing/BlinfoldKing.github.io](https://github.com/BlinfoldKing/BlinfoldKing.github.io)
+- [BlinfoldKing/SupercloneProject](https://github.com/BlinfoldKing/SupercloneProject)
+- [metron0me/actor-film-management](https://github.com/metron0me/actor-film-management)
+- [zombozo12/SimpleCleanLogin](https://github.com/zombozo12/SimpleCleanLogin)
+- [zombozo12/EvilBot](https://github.com/zombozo12/EvilBot)
+- [vayupranaditya/telmed](https://github.com/vayupranaditya/telmed)
+- [vayupranaditya/makandisini](https://github.com/vayupranaditya/makandisini)
+- [vayupranaditya/brocode-presence](https://github.com/vayupranaditya/brocode-presence)
+- [bhrdn/BeasiswaAPP](https://github.com/bhrdn/BeasiswaAPP)
+- [mfaridzia/ActivityNotes](https://github.com/mfaridzia/ActivityNotes)
+- [mfaridzia/catappus-app](https://github.com/mfaridzia/catappus-app)
+- [adzkarfauzie/CMS-sederhana](https://github.com/adzkarfauzie/CMS-sederhana)
+- [ahsanatha/Tentsu-Bot](https://github.com/ahsanatha/Tentsu-Bot)
+- [jeremylombogia/senbi](https://github.com/jeremylombogia/senbi)
+- [Seu7a/Perpustakaan-app](https://github.com/Seu7a/Perpustakaan-app)
+- [Seu7a/DanaPinjamUsaha-app](https://github.com/Seu7a/DanaPinjamUsaha-app)
+- [serabiasin/simple_backup_linux](https://github.com/serabiasin/simple_backup_linux)
+- [thelokot01/IPCalculate](https://github.com/thelokot01/IPCalculate)
+- [Muammarbanana/AgeCounter1](https://github.com/Muammarbanana/AgeCounter1)
 
 ### 2. ALGORITHM UNDERSTANDING
 Algorithm and data structure is an important part of computer science.
@@ -95,4 +119,3 @@ You're freely to visit us and ask everything.
 The deadline of this task is **November 3rd, 2017**.
 Please note that this task is optional. It's a good thing if you're
 doing this task.
-
