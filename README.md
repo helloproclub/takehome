@@ -82,6 +82,9 @@ Here is the repository list ordered by submitted issue.
 - [serabiasin/simple_backup_linux](https://github.com/serabiasin/simple_backup_linux)
 - [thelokot01/IPCalculate](https://github.com/thelokot01/IPCalculate)
 - [Muammarbanana/AgeCounter1](https://github.com/Muammarbanana/AgeCounter1)
+- [naufalrzld/MySchedule](https://github.com/naufalrzld/MySchedule)
+- [mariefismi02/TUBES-Program-Rekomendasi-Jurusan](https://github.com/mariefismi02/TUBES-Program-Rekomendasi-Jurusan)
+- [guptasanjaya/DataBerobat](https://github.com/guptasanjaya/DataBerobat)
 
 ### 2. ALGORITHM UNDERSTANDING
 Algorithm and data structure is an important part of computer science.
